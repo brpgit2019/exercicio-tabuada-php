@@ -1,0 +1,13 @@
+body	{
+	background-color: #368654
+}
+
+#php	{
+	border: 2px solid black;
+	width: 360px;
+	height: 530px;
+	background-color: #cccccc;
+	margin: auto;
+	padding: 20px;
+	color: #ff0000;
+}

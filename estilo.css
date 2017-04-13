@@ -1,0 +1,12 @@
+body	{
+	background-color: #006633;
+}
+#caixa	{
+	position: relative;
+	width: 160px;
+	height: 160px;
+	border: 2px black solid;
+	background-color: #cccccc;
+	left:420px;
+	top:200px;
+}
