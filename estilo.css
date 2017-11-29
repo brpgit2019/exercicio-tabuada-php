@@ -1,12 +1,33 @@
 body	{
 	background-color: #006633;
 }
+
 #caixa	{
 	position: relative;
-	width: 160px;
+	width: 180px;
 	height: 160px;
-	border: 2px black solid;
+	border: 1px black solid;
 	background-color: #cccccc;
-	left:420px;
+	left:410px;
 	top:200px;
+	margin: 10px
+}
+#digite{
+	margin: 10px;
+	position: relative;
+	left: 26px;
+
+}
+#valor{
+	width: 133px;
+	margin: 10px;
+}
+#limp{
+	margin: 10px;
+	position: relative;
+	left: 20px;
+}
+#cal{
+	margin: 10px;
+
 }
